@@ -69,9 +69,6 @@ The Job Portal is a full-stack web application built using Java Servlets, JSP, a
 ### 📝 Registration Page
 ![Registration Page](screenshots/signup.png)
 
-### 🏠 Home Page - All Jobs
-![Home Page](screenshots/home.png)
-
 ### 🔍 More View Page
 ![More View Page](screenshots/more_view.png)
 
